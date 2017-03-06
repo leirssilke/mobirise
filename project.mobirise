@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "mainpage.html",
+    "currentPage": "Morningroutine.html",
     "name": "Silke Leirs",
     "theme": {
       "name": "mobirise3",
@@ -71,10 +71,10 @@
               "font-size": "19px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#3d8eb9"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#3d8eb9",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -97,7 +97,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#3d8eb9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -117,7 +117,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#3d8eb9"
             },
             ".btn": {
               "font-size": "17px",
@@ -135,7 +135,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -158,8 +158,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -291,10 +291,10 @@
               "font-size": "19px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#3d8eb9"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#3d8eb9",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -317,7 +317,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#3d8eb9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -337,7 +337,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#3d8eb9"
             },
             ".btn": {
               "font-size": "17px",
@@ -355,7 +355,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -378,8 +378,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -468,7 +468,7 @@
             "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": false,
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "gallery3-10",
           "articleLayout": false,
@@ -606,7 +606,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -629,8 +629,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -801,10 +801,10 @@
               "font-size": "19px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#3d8eb9"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#3d8eb9",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -827,7 +827,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#3d8eb9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -847,7 +847,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#3d8eb9"
             },
             ".btn": {
               "font-size": "17px",
@@ -865,7 +865,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -888,8 +888,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
         },
         {
           "_name": "footer1",
@@ -986,10 +986,10 @@
               "font-size": "19px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#3d8eb9"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#3d8eb9",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -1012,7 +1012,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#3d8eb9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1032,7 +1032,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#3d8eb9"
             },
             ".btn": {
               "font-size": "17px",
@@ -1050,7 +1050,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -1073,8 +1073,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -1143,7 +1143,7 @@
             "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": false,
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "gallery3-p",
           "articleLayout": false,
@@ -1217,10 +1217,10 @@
               "font-size": "19px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#3d8eb9"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#3d8eb9",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -1243,7 +1243,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#3d8eb9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1263,7 +1263,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#3d8eb9"
             },
             ".btn": {
               "font-size": "17px",
@@ -1281,7 +1281,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -1304,8 +1304,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
         },
         {
           "_tags": [
@@ -1560,7 +1560,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -1583,8 +1583,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
         },
         {
           "_tags": [
@@ -1856,7 +1856,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -1879,8 +1879,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -2083,7 +2083,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -2106,8 +2106,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
         },
         {
           "_styles": {
@@ -2215,10 +2215,10 @@
               "font-size": "19px"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#3d8eb9"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#3d8eb9",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-family": "'Lato', sans-serif"
             },
@@ -2241,7 +2241,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#3d8eb9",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -2261,7 +2261,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#3d8eb9"
             },
             ".btn": {
               "font-size": "17px",
@@ -2279,7 +2279,7 @@
               "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "css": "'Lato', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#3d8eb9",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -2302,8 +2302,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"mainpage.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">silkeleirs</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Illustrations</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Finished works</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Achildrensstory.html\">A \"children's\" story</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"5words.html\">Five Words</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Tattoodesigns.html\">Tattoo designs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Paintings.html\">Paintings</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Sketches</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Morningroutine.html\">Morning routine</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"constructinganimage.html\">Constructing an image</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"abookisborn.html\">A book is born</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"tattoos.html\">Tattoos</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"aboutme.html\">About me</a></li>"
         },
         {
           "_tags": [
